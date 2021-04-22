@@ -86,7 +86,7 @@ func main() {
 		fmt.Print("Pre.:")
 		prefixa(t.raiz)
 		fmt.Printf("\n")
-		fmt.Println("Case 2")
+		fmt.Println("Case 2:")
 		fmt.Print("In.:")
 		infixa(t.raiz)
 		fmt.Printf("\n")
